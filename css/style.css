@@ -1,0 +1,28 @@
+body {
+    background-color: #F07ABF;
+    font-family:bitter, "Times New Roman," serif;
+    background-color: #F07ABF;
+    color:#F4F4F0;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family:Oswald, arial, sans-serif;
+    font-size: 30pt;
+}
+header {
+ text-align:center;
+
+}
+#hero, footer {
+    color:#F4F4F0;
+    background-color:#76fabc;
+    text-align:center;
+    padding:10px;
+    border: 2px solid #13e033;
+    border-radius: 20px;
+}
+#hero img {
+    width: 300px;
+}
+#bio {
+    text-align:center;
+}
