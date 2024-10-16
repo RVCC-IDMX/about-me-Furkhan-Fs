@@ -1,3 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+  }
+  .box-one {
+    background-color: red;
+    border: 0 solid aqua;
+    padding: 20px;
+    margin:20px;
+    border: 20px;
+
+  } 
+  
+  .box-two {
+    background-color: #13e033;
+    border: 0 solid yellow;
+  } 
 body {
     background-color: #F07ABF;
     font-family:bitter, "Times New Roman," serif;
