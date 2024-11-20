@@ -54,12 +54,27 @@ width: 4vw;
 
 /* navigation list */
 
+.navbar-links li {
+    list-style: none;
+    display:block;
+    padding: 0.5em 0;
+
+}
 
 /*  
  style all a tags in header 
  and then on hover
 */
 
+.navbar-links a {
+    color:black;
+    background-color: #76fabc;
+    font-size: 1.5rem;
+    padding: 1rem 1.25rem;
+    letter-spacing:1px;
+    text-decoration: none;
+    display: inline-block;
+}
 
 
 
