@@ -1,8 +1,8 @@
 
 body {
-    background-color: #F07ABF;
+    background-color: #000000;
     font-family:bitter, "Times New Roman," serif;
-    background-color: #F07ABF;
+    background-color: #000000;
     color:#76fabc;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -77,7 +77,7 @@ section#hobbies {
 
 #lit div p:first-child:first-letter {
 color:#76fabc;
-background-image:radial-gradient(#FFF,#F07ABF) ;
+background-image:radial-gradient(#FFF,#000000) ;
 float:left;
 font-size: 3em;
 padding:.25em;
