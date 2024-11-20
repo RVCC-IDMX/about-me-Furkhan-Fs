@@ -70,7 +70,7 @@ width: 4vw;
 .navbar-links a {
     color:black;
     background-color: #76fabc;
-    font-size: 1.5rem;
+    font-size: 2rem;
     padding: 1rem 1.25rem;
     letter-spacing:1px;
     text-decoration: none;
@@ -92,3 +92,21 @@ media query for non-mobile nav bar
 min-width set to width of nav elements 
 such that no text wraps 
 */
+
+@media screen and (min-width: 60rem) {
+    .navbar-links {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between ;
+    }
+
+    .navbar {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .navbar ul {
+        display: flex;
+        justify-content: space-between;
+    }
+}
