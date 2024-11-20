@@ -76,7 +76,14 @@ width: 4vw;
     display: inline-block;
 }
 
+.navbar-links a:hover,
+.navbar-links a:focus {
+    color:#76fabc;
+    background-color:black;
+    border-radius: 10px;
+    outline: none;
 
+}
 
 
 /* 
